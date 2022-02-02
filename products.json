@@ -1,0 +1,56 @@
+[
+	{
+		"name": "The Fall Of Gondolin",
+		"price": 12.79,
+		"category": "Book",
+		"id": "0d3c78db-e82a-4c5e-8664-694cb36556b0"
+	},
+	{
+		"name": "Beren And Lúthien",
+		"price": 10.59,
+		"category": "Fantasy Book",
+		"id": "8b0b22d2-6898-4d0d-a7e5-6d19f27a6e34"
+	},
+	{
+		"name": "The Children of Hurin",
+		"price": 13.95,
+		"category": "Book",
+		"id": "ae6ce282-f5a8-4528-9b26-a39b7ee7929a"
+	},
+	{
+		"name": "The Nature Of Middle-Earth - Hardcover Edition",
+		"price": 29.99,
+		"category": "Book",
+		"id": "834b4c6d-ce05-4e67-8fc6-e00ea0f558f6"
+	},
+	{
+		"name": "The Silmarillion",
+		"price": 32.49,
+		"category": "Book",
+		"id": "80fe0ea8-a398-4595-8888-e44c0a14a6ac"
+	},
+	{
+		"name": "The Hobbit",
+		"price": 15.99,
+		"category": "Book",
+		"id": "ad445029-e467-4d2f-8b13-b2da4c646d08"
+	},
+	{
+		"name": "LOTR - Lord Of The Rings - Trilogy - Hardcover Edition",
+		"price": 59.99,
+		"category": "Book",
+		"id": "82967680-6437-47ea-8ae5-992a315a7fa0"
+	},
+	{
+		"name": "Unfinished Tales: The Lost Lore of Middle-Earth",
+		"price": 52.62,
+		"category": "Book",
+		"id": "59b82d07-9311-43f4-b35e-c1972cb99dfd"
+	},
+	{
+		"name": "The Adventures Of Tom Bombadil",
+		"price": 11.99,
+		"category": "Book",
+		"id": "a9b0b182-5059-494d-a5f3-322bf66f74c6"
+	}
+]
