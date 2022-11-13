@@ -9,14 +9,14 @@ Maybe, in the future, I will implement a better solution for saving data in a da
 ## How do I test?
 
 - Download or clone this repository
-- Run yarn or npm install
-- After installing all the packages, run yarn dev or npm run dev
+- Run **yarn** or **npm install**
+- After installing all the packages, run: **yarn dev** or **npm run dev**
 
-After that you access the base URL: http://localhost:4002 or whatever you configure
+After that, you can access the base URL: http://localhost:4002, or whatever you configure at **app.js**
 
-Open you favorite tool for dealing with HTTP requests (there are many option, like: Insomnia, Postman, Thunder Client, REST Client, etc...)
+Open you favorite tool for dealing with HTTP requests (there are many options, like: Insomnia, Postman, Thunder Client, REST Client, etc...)
 
-Put the base URL, choose the headers for you requests 'Content-Type: application/json'
+Put the base URL, choose the headers for you requests: 'Content-Type: application/json'
 
 In the body of your request, you can write:
 
@@ -26,7 +26,7 @@ In the body of your request, you can write:
 "category": "Book"
 ```
 
-PS: the code above is only a example, feel fre to modify the content if you want.
+PS: the code above is only a example, feel free to modify the content if you want.
 
 So, this is it!
 
